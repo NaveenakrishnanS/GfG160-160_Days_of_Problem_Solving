@@ -1,17 +1,27 @@
-# Second Largest
+# **Second Largest**
 
-### Difficulty:  **Easy**  
-### Accuracy: 26.72%  
-### Average Time: 15 minutes  
+### 🟢 Difficulty: **Easy**  
+### 🎯 Accuracy: **26.72%**  
+### ⏳ Average Time: **15 minutes**  
 
 ---
 
-## Problem Statement  
-Given an array of positive integers `arr[]`, find and return the second largest element in the array. If there is no second largest element, return `-1`.  
+## 📌 Problem Statement  
+Given an array of positive integers `arr[]`, find and return the **second largest** element in the array. If there is no second largest element, return `-1`.  
 
-**Note:**  
-- The second largest element must be **strictly less** than the largest element.  
-- If all elements in the array are the same, return `-1`.  
+🔹 The second largest element must be **strictly less** than the largest element.  
+🔹 If all elements in the array are the same, return `-1`.  
+
+🔗 **[View Problem on GFG](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735)**  
+
+---
+
+## 🔹 Examples  
+
+### **Example 1**  
+🔹 **Input:**  
+```plaintext
+arr[] = [12, 35, 1, 10, 34, 1]
 
 ## Examples  
 
