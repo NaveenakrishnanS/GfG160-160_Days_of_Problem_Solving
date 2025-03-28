@@ -1,8 +1,6 @@
 # **Second Largest**
 
 ### 🟢 Difficulty: **Easy**  
-### 🎯 Accuracy: **26.72%**  
-### ⏳ Average Time: **15 minutes**  
 
 ---
 
